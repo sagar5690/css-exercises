@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.apple, .banana ,.cat {
+    background-color: pink;
+    font-size: 24px;
+}
+#dox{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+#rox{
+    color: blue;
+    font-size : 36px;
+
+}
